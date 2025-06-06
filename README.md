@@ -25,7 +25,7 @@
 1. Перейдите в раздел [Releases](https://github.com/ne4ertik/CreatorTestForTeacher/releases) проекта
 2. Скачайте последнии версии (`CreatorTestForTeacher.7z`) и (`StudentsTest.zip`)
 3. Распакуйте архив
-4. Запустите `CreatorTestForTeacher.exe` или `StudentsTest.zip`
+4. Запустите `CreatorTestForTeacher.exe` или `StudentsTest.exe`
 
 
 ## Обратная связь
